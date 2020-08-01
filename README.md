@@ -1,0 +1,2 @@
+# BelajarKotlin
+Mengetahui kotlin
